@@ -1,4 +1,4 @@
-package com.brightbetter.extension.datetime
+package win.rushmi0.extension.datetime
 
 import jakarta.faces.context.FacesContext
 import jakarta.servlet.ServletContextEvent

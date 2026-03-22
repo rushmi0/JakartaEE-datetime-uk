@@ -6,12 +6,12 @@
               version="6.0">
 
     <listener>
-        <listener-class>com.brightbetter.extension.datetime.LanguageViewHandlerInitializer</listener-class>
+        <listener-class>win.rushmi0.extension.datetime.LanguageViewHandlerInitializer</listener-class>
     </listener>
 
     <filter>
         <filter-name>LanguageFilter</filter-name>
-        <filter-class>com.brightbetter.extension.datetime.LanguageFilter</filter-class>
+        <filter-class>win.rushmi0.extension.datetime.LanguageFilter</filter-class>
     </filter>
     <filter-mapping>
         <filter-name>LanguageFilter</filter-name>
